@@ -3,4 +3,4 @@
 
 const nuevoNumero = null;
 
-module.exports = nuevoNumero;
+module.exports = 1996;
